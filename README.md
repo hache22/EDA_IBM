@@ -1,0 +1,2 @@
+# Analisis Exploratorio de Datos
+El objetivo principal de este documento es identificar las causas de la deserción de empleados y los elevados niveles de insatisfacción dentro de IBM. A través de un análisis exploratorio, se establece una base robusta para futuras investigaciones y decisiones estratégicas. Al comprender los factores que motivan la satisfacción y retención de empleados, IBM puede desarrollar un entorno laboral más satisfactorio y eficiente.
